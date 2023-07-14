@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    margin: 0;
 }
 
 h1 {
@@ -68,14 +69,14 @@ h1 {
     margin-top: 10px;
     padding: 8px 16px;
     font-size: 16px;
-    cursor: pointer;
-    background-color: #4CAF50;
+    background-color: #28eea7;
     color: #fff;
     border: none;
     border-radius: 4px;
-    transition: background-color 0.3s ease-in-out;
 }
 
 #reset-btn:hover {
-    background-color: #7044e9;
+    background-color: #363738;
+    color: #28eea7;
+    border: 2px solid #28eea7;
 }
