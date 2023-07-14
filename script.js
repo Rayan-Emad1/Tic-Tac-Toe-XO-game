@@ -1,3 +1,7 @@
+//Reference: https://www.codebrainer.com/blog/tic-tac-toe-javascript-game
+//Resources: Chatgpt
+
+
 const player1Name = document.getElementById("player1");
 const player2Name = document.getElementById("player2");
 let player1Score = document.getElementById("player1-score");
